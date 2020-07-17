@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently Flutter.
 - 🤔 I’m looking for help to learn flutter.
-- 💬 Ask me about Flutter or Android related stuff.
+- 💬 Ask me about Flutter and Android related stuff.
 - 📫 How to reach me: [Twitter - @askNilesh_](https://twitter.com/askNilesh_) , [StackOverflow - Nilesh Rathod](https://stackoverflow.com/users/7666442/nilesh-rathod?tab=profile)
 
 
