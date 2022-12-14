@@ -38,28 +38,28 @@
 ![InVision](https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Streak Stats 
+## ⏱ Streak Stats 
 
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=askNilesh">
 
 
-### Trophy Stats 
+## 🏆 Trophy Stats 
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=askNilesh">
 
-### Github Profile Summary Card 
+## 💳  Profile Summary Card 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=askNilesh&theme=vue">
 
 
-### GitHub Stats
+## 📟  Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=askNilesh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
-### Most Used Language
+## 📊  Most Used Language
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=askNilesh">
